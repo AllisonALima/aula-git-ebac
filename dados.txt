@@ -1,0 +1,10 @@
+Dados do aluno
+
+-Primeiro Nome: Allison
+-Profissão: Operador de Balança de Concreto
+-Cidade: Hortolândia
+-O que faz nas horas vaga: jogar jogos no PC
+-Feedback sobre o curso Qualidade de Software: Aulas boas e com um bom feedback sobre os exercicios
+-Feedback sobre a plataforma de estudo da EBAC: Muito boa com excelentes profissionais
+
+Obrigado!!!
